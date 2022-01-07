@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77043704933",
+    "project_id": "cmsc4303-tril-map",
+    "storage_bucket": "cmsc4303-tril-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77043704933:android:a35fdb2cb647581f91928c",
+        "android_client_info": {
+          "package_name": "edu.uco.tle.map.photomemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77043704933-l03qs5l0h3mrrs520nqr9r7urgqimv1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxfucm5tQpQSOVKLdqPvE41SDzNwl5ul8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77043704933-l03qs5l0h3mrrs520nqr9r7urgqimv1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
